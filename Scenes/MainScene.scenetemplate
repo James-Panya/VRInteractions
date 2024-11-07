@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: MainScene
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: a2ba44019e2a540deb4507337c25a844, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2100000, guid: fc58c89950def9d41a1e72a3efb79e56, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 8300000, guid: f8e6f8cd46418f64894daf816429e6a0, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: 15df31fa066de5f4c913659867c06bb2, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 8300000, guid: b77c4671009a031428079f4402922f9f, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: e149201df6900bc42a4823bb00945654, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 7b8bfaee8f8631c4789ac62373cbc2d4, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: 73541bbfe24fec84d802d70f9ddb8356, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 6718549878587914716, guid: 38db585bad555b049b06bd43fcd3ccd0, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 8300000, guid: 5b5b3635dbfab194da1af6a71628f43d, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: c22777d6e868e4f2fb421913386b154e, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 4051288929346931436, guid: dc46b0923a62a6948ae7f33616cb7c0b, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 6344bf96fbda94141a525046d088fb23, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 432b3086cebdc438d9d33de3669fb063, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 6431983628193396652, guid: 39a612020bf0ba44e95400816636b6ce, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 9855a93a9ba83bd48a7c560a01825417, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 6bbbcfab92f145745a5517af8f8b42cf, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 8474060439551192850, guid: 52319ec7974106d46a68ed7721c62e79, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: b1892ad10e5f20b49b22bdb8489dec3a, type: 2}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
