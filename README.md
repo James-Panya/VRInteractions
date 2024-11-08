@@ -10,6 +10,8 @@ I already implemented teleporting, so I stuck with it as one of my interactions.
 This allows the player to interact with an object and grab it with the controller. As long as the ray hits the object, it'll come towards the player's hand.
 ### Button Interaction
 I created not a UI Button, but a "physically" present button for the user to press down on. The button has a configurable joint which allows it to go up and down and collide with the trigger in order to activate the button.
+### Haptic Feedback
+This was added last minute, but I had very small haptic feedback whenever a player hovers over an interactable object. I didn't tell testers to see if they would notice, but it seems I didn't put enough vibrations for them to notice.
 
 ## Observations
 All five of my testers seemed to be enjoying the interactions that I made. Users, ranged from no experience with games or VR to experience, all had very positive words and actions when interacting with my project. At the end, they said that they were very pleased and had little to no complaints about the interactions that I've made. The only complaint was that when holding down the teleport button, the teleport marker would go to the plane's origin for some reason. Aside from that, the interaction project seemed to be highly regarded.
