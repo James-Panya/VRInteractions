@@ -4,11 +4,11 @@
 The three main interactions that I implemented were teleporting, being able to grab objects within VR, and pressing a virtual button. At first, I was going to implement three different teleportation variations, but when I started implementing them, two of them felt the exact same and didn't feel different at all. While the third one I couldn't for the life of me figure out how to implement.
 
 ## Interactions
-# Teleporting
+### Teleporting
 I already implemented teleporting, so I stuck with it as one of my interactions. A very simple, point at a location on the ground and teleport there.
-# Picking Up Objects
+### Picking Up Objects
 This allows the player to interact with an object and grab it with the controller. As long as the ray hits the object, it'll come towards the player's hand.
-# Button Interaction
+### Button Interaction
 I created not a UI Button, but a "physically" present button for the user to press down on. The button has a configurable joint which allows it to go up and down and collide with the trigger in order to activate the button.
 
 ## Observations
